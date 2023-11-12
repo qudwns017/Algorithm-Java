@@ -1,4 +1,4 @@
-package Math;
+package baekjoon.math;
 
 public class _13458 {
     private void solution() {
